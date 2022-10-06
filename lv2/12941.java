@@ -1,3 +1,5 @@
+//최솟값 만들기
+
 import java.util.Arrays;
 
 class Solution

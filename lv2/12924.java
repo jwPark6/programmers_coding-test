@@ -1,3 +1,5 @@
+//숫자의 표현
+
 class Solution {
     public int solution(int n) {
         int answer = 1;

@@ -1,3 +1,5 @@
+//이진변환 반복하기
+
 class Solution {
     public int[] solution(String s) {
         int[] answer = {};
