@@ -22,6 +22,6 @@
 |점프와 순간 이동|[Java](https://github.com/jwPark6/programmers_coding-test/blob/main/lv2/12980.java)|[Notion](https://traveling-organ-e7f.notion.site/05cba4ee7b8b49d689df8e23f5a536f9)|
 |캐시|[Java](https://github.com/jwPark6/programmers_coding-test/blob/main/lv2/17680.java)|[Notion](https://traveling-organ-e7f.notion.site/c59e74c8f7864e55981f636e9c7b1bb1)|
 |H-index|[Java](./lv2/42747.java)|[Notion](https://traveling-organ-e7f.notion.site/H-Index-06e0e4dc5dab44d3825cba83c669ad00)|
-|행렬의 곱셈|[Java]|[Notion](https://traveling-organ-e7f.notion.site/f15432dd75064e84a1a75d09ce9a070d)|
-|괄호 회전하기|[Java]|[Notion](https://traveling-organ-e7f.notion.site/5f6d792dd0b74a679b1e9f06d3aad269)|
+|행렬의 곱셈|[Java](./lv2/행렬의_곱셈.java)|[Notion](https://traveling-organ-e7f.notion.site/f15432dd75064e84a1a75d09ce9a070d)|
+|괄호 회전하기|[Java](./lv2/%EA%B4%84%ED%98%B8_%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)|[Notion](https://traveling-organ-e7f.notion.site/5f6d792dd0b74a679b1e9f06d3aad269)|
 ---
