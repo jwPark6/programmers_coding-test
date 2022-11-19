@@ -26,4 +26,6 @@
 |괄호 회전하기|[Java](./lv2/%EA%B4%84%ED%98%B8_%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)|[Notion](https://traveling-organ-e7f.notion.site/5f6d792dd0b74a679b1e9f06d3aad269)|
 |튜플|[Java](./lv2/%ED%8A%9C%ED%94%8C.java)|[Notion](https://traveling-organ-e7f.notion.site/72e497c437064874815c9dedb54e5e32)|
 |위장|[Java](./lv2/%EC%9C%84%EC%9E%A5.java)|[Notion](https://traveling-organ-e7f.notion.site/045fa39145a746568e8fc4ee7a807581)|
+|기능 개발|[Java](./lv2/42586.java)|[Notion](https://traveling-organ-e7f.notion.site/52c00e15e0a7420aad87f5f7c829fe06)|
+|n^2 배열 자르기|[Java](./lv2/87390.java)|[Notion](https://traveling-organ-e7f.notion.site/n-2-73c8e8c1863f411cbdcd76488b00586a)|
 ---
