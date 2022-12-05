@@ -28,4 +28,6 @@
 |위장|[Java](./lv2/%EC%9C%84%EC%9E%A5.java)|[Notion](https://traveling-organ-e7f.notion.site/045fa39145a746568e8fc4ee7a807581)|
 |기능 개발|[Java](./lv2/42586.java)|[Notion](https://traveling-organ-e7f.notion.site/52c00e15e0a7420aad87f5f7c829fe06)|
 |n^2 배열 자르기|[Java](./lv2/87390.java)|[Notion](https://traveling-organ-e7f.notion.site/n-2-73c8e8c1863f411cbdcd76488b00586a)|
+|프린터|[Java](./lv2/%ED%94%84%EB%A6%B0%ED%84%B0.java)|[Notion](https://traveling-organ-e7f.notion.site/a85c3abb9c8f43f484203879b0578fd6)|
+|뉴스 클러스터링|[Java](./lv2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java)|[Notion](https://traveling-organ-e7f.notion.site/1-72db8e7e0059438482d2c3a1caf351b2)|
 ---
