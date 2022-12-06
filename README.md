@@ -5,7 +5,7 @@
 |제목|코드|풀이|
 |------|---|---|
 |최댓값과 최솟값|[Java](https://github.com/jwPark6/programmers_coding-test/blob/main/lv2/12939.java)|[Notion](https://traveling-organ-e7f.notion.site/80ccf11e6bf5496085cb34e174508b1c)|
-|JadenCase 문자열 만들기|[Java]|[Notion](https://traveling-organ-e7f.notion.site/JadenCase-e2675e1a28ec47528d5b90b1c8eec1c6)|
+|JadenCase 문자열 만들기|[Java](./lv2/12951.java)|[Notion](https://traveling-organ-e7f.notion.site/JadenCase-e2675e1a28ec47528d5b90b1c8eec1c6)|
 |최솟값 만들기|[Java](https://github.com/jwPark6/programmers_coding-test/blob/main/lv2/12941.java)|[Notion](https://traveling-organ-e7f.notion.site/84c513541b8b444597620279bce36151)|
 |이진 변환 반복하기|[Java](https://github.com/jwPark6/programmers_coding-test/blob/main/lv2/70129.java)|[Notion](https://traveling-organ-e7f.notion.site/4181932b64984a42b4f5dccaa21ac8f1)|
 |올바른 괄호|[Java](https://github.com/jwPark6/programmers_coding-test/blob/main/lv2/12909.java)|[Notion](https://traveling-organ-e7f.notion.site/e7ff723e913e4117b0790f80679cf408)|
@@ -30,4 +30,8 @@
 |n^2 배열 자르기|[Java](./lv2/87390.java)|[Notion](https://traveling-organ-e7f.notion.site/n-2-73c8e8c1863f411cbdcd76488b00586a)|
 |프린터|[Java](./lv2/%ED%94%84%EB%A6%B0%ED%84%B0.java)|[Notion](https://traveling-organ-e7f.notion.site/a85c3abb9c8f43f484203879b0578fd6)|
 |뉴스 클러스터링|[Java](./lv2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java)|[Notion](https://traveling-organ-e7f.notion.site/1-72db8e7e0059438482d2c3a1caf351b2)|
+|전화번호 목록|[Java](./lv2/42577.java)|[Notion](https://traveling-organ-e7f.notion.site/d408d1a54b2d46ffa959c0a373a108ef)|
+|타겟 넘버|[Java](./lv2/43165.java)|[Notion](https://traveling-organ-e7f.notion.site/15e891763a1e403195709fa825ce3825)|
+|k진수에서 소수 개수 구하기|[Java](./lv2/92335.java)|[Notion](https://traveling-organ-e7f.notion.site/k-90d4638c30e7448585d7027f13d26841)|
+|압축]|[Java](./lv2/17684.java)|[Notion](https://traveling-organ-e7f.notion.site/3-380645654b704d40af9377e8b5c5cc72)|
 ---
