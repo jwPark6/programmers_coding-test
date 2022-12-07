@@ -33,8 +33,8 @@
 |전화번호 목록|[Java](./lv2/42577.java)|[Notion](https://traveling-organ-e7f.notion.site/d408d1a54b2d46ffa959c0a373a108ef)|
 |타겟 넘버|[Java](./lv2/43165.java)|[Notion](https://traveling-organ-e7f.notion.site/15e891763a1e403195709fa825ce3825)|
 |k진수에서 소수 개수 구하기|[Java](./lv2/92335.java)|[Notion](https://traveling-organ-e7f.notion.site/k-90d4638c30e7448585d7027f13d26841)|
-|압축]|[Java](./lv2/17684.java)|[Notion](https://traveling-organ-e7f.notion.site/3-380645654b704d40af9377e8b5c5cc72)|
-|주차 요금 계산]|[Java](./lv2/92341.java)|[Notion](https://traveling-organ-e7f.notion.site/ab0baba5f5be48189259880ffd07b5c1)|
-|더 맵게]|[Java](./lv2/17684.java)|[Notion](https://traveling-organ-e7f.notion.site/622eb942b7dc443cbad9d8bb6f0ac8bc)|
-|오픈채팅방]|[Java](./lv2/42888.java)|[Notion](https://traveling-organ-e7f.notion.site/7fc4b003f486496dbfbe9a1b26a00c07)|
+|압축|[Java](./lv2/17684.java)|[Notion](https://traveling-organ-e7f.notion.site/3-380645654b704d40af9377e8b5c5cc72)|
+|주차 요금 계산|[Java](./lv2/92341.java)|[Notion](https://traveling-organ-e7f.notion.site/ab0baba5f5be48189259880ffd07b5c1)|
+|더 맵게|[Java](./lv2/17684.java)|[Notion](https://traveling-organ-e7f.notion.site/622eb942b7dc443cbad9d8bb6f0ac8bc)|
+|오픈채팅방|[Java](./lv2/42888.java)|[Notion](https://traveling-organ-e7f.notion.site/7fc4b003f486496dbfbe9a1b26a00c07)|
 ---
