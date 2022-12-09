@@ -37,4 +37,6 @@
 |주차 요금 계산|[Java](./lv2/92341.java)|[Notion](https://traveling-organ-e7f.notion.site/ab0baba5f5be48189259880ffd07b5c1)|
 |더 맵게|[Java](./lv2/17684.java)|[Notion](https://traveling-organ-e7f.notion.site/622eb942b7dc443cbad9d8bb6f0ac8bc)|
 |오픈채팅방|[Java](./lv2/42888.java)|[Notion](https://traveling-organ-e7f.notion.site/7fc4b003f486496dbfbe9a1b26a00c07)|
+|주식가격|[Java](./lv2/42584.java)|[Notion](https://traveling-organ-e7f.notion.site/6f2d1c2c8d1b4b69b2014ce793fd0832)|
+|피로도|[Java](./lv2/87946.java)|[Notion](https://traveling-organ-e7f.notion.site/129567a80a1d46349b216e77a78e679a)|
 ---
