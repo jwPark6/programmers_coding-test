@@ -39,4 +39,7 @@
 |오픈채팅방|[Java](./lv2/42888.java)|[Notion](https://traveling-organ-e7f.notion.site/7fc4b003f486496dbfbe9a1b26a00c07)|
 |주식가격|[Java](./lv2/42584.java)|[Notion](https://traveling-organ-e7f.notion.site/6f2d1c2c8d1b4b69b2014ce793fd0832)|
 |피로도|[Java](./lv2/87946.java)|[Notion](https://traveling-organ-e7f.notion.site/129567a80a1d46349b216e77a78e679a)|
+|n 진수 게임|[Java](./lv2/17687.java)|[Notion](https://traveling-organ-e7f.notion.site/n-cb5b30e5e69044328edb1223607f4031)|
+|스킬트리|[Java](./lv2/49993.java)|[Notion](https://traveling-organ-e7f.notion.site/8c236e35db744ce9a77c9fb8cc270358)|
+|땅따먹기|[Java](./lv2/12913.java)|[Notion](https://traveling-organ-e7f.notion.site/374b6edaf31f482d92ecb39c403ccacd)|
 ---
