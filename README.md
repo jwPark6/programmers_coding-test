@@ -42,4 +42,7 @@
 |n 진수 게임|[Java](./lv2/17687.java)|[Notion](https://traveling-organ-e7f.notion.site/n-cb5b30e5e69044328edb1223607f4031)|
 |스킬트리|[Java](./lv2/49993.java)|[Notion](https://traveling-organ-e7f.notion.site/8c236e35db744ce9a77c9fb8cc270358)|
 |땅따먹기|[Java](./lv2/12913.java)|[Notion](https://traveling-organ-e7f.notion.site/374b6edaf31f482d92ecb39c403ccacd)|
+|귤 고르기|[Java](./lv2/138476.java)|[Notion](https://traveling-organ-e7f.notion.site/e131228cd772499e9a94c4a2b0ba0a78)|
+|연속 부분 수열 합의 개수|[Java](./lv2/131701.java)|[Notion](https://traveling-organ-e7f.notion.site/e1517f7233e64a5a841ee7f484c1e259)|
+|모음 사전|[Java](./lv2/84512.java)|[Notion](https://traveling-organ-e7f.notion.site/35f85a4d3424429f809d7987f747af22)|
 ---
