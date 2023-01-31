@@ -45,4 +45,6 @@
 |귤 고르기|[Java](./lv2/138476.java)|[Notion](https://traveling-organ-e7f.notion.site/e131228cd772499e9a94c4a2b0ba0a78)|
 |연속 부분 수열 합의 개수|[Java](./lv2/131701.java)|[Notion](https://traveling-organ-e7f.notion.site/e1517f7233e64a5a841ee7f484c1e259)|
 |모음 사전|[Java](./lv2/84512.java)|[Notion](https://traveling-organ-e7f.notion.site/35f85a4d3424429f809d7987f747af22)|
+|방문 길이|[Java](./lv2/84512.java)|[Notion](https://traveling-organ-e7f.notion.site/55db76b1646f415fbcf2069b7f5bc6b6)|
+|할인 행사|[Java](./lv2/131127.java)|[Notion](https://traveling-organ-e7f.notion.site/285df3a577d748c2951d3e6c2113e8b7)|
 ---
