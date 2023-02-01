@@ -47,4 +47,5 @@
 |모음 사전|[Java](./lv2/84512.java)|[Notion](https://traveling-organ-e7f.notion.site/35f85a4d3424429f809d7987f747af22)|
 |방문 길이|[Java](./lv2/84512.java)|[Notion](https://traveling-organ-e7f.notion.site/55db76b1646f415fbcf2069b7f5bc6b6)|
 |할인 행사|[Java](./lv2/131127.java)|[Notion](https://traveling-organ-e7f.notion.site/285df3a577d748c2951d3e6c2113e8b7)|
+|프렌즈 4 블록|[Java](./lv2/17679.java)|[Notion](https://traveling-organ-e7f.notion.site/4-ffa52b59077d4f78a1613653eecff95c)|
 ---
