@@ -51,4 +51,8 @@
 |[3차]파일명 정렬|[Java](./lv2/17686.java)|[Notion](https://traveling-organ-e7f.notion.site/3-504f0f676ed0419088294b2dc8daa567)|
 |게임 맵 최단거리|[Java](./lv2/1844.java)|[Notion](https://traveling-organ-e7f.notion.site/4f0982dfb6a84e009df2677da4812fab)|
 |2개 이하로 다른 비트|[Java](./lv2/77885.java)|[Notion](https://traveling-organ-e7f.notion.site/2-20c147d6ac2a495d80880021b0e09186)|
+|다리를 지나는 트럭|[Java](./lv2/42583.java)|[Notion](https://traveling-organ-e7f.notion.site/33b515fca4934e04924f57af066f0211)|
+|2 X N 타일링|[Java](./lv2/12900.java)|[Notion](https://traveling-organ-e7f.notion.site/2-X-N-fd9e1375fa0a41df91cda08d30508c10)|
+|가장 큰 수|[Java](./lv2/42746.java)|[Notion](https://traveling-organ-e7f.notion.site/84beee3abf974142aaa2bc99479f722f)|
+|소수 찾기|[Java](./lv2/42839.java)|[Notion](https://traveling-organ-e7f.notion.site/89f26ba3c2694dc9ac657b69875acf45)|
 ---
