@@ -55,4 +55,7 @@
 |2 X N 타일링|[Java](./lv2/12900.java)|[Notion](https://traveling-organ-e7f.notion.site/2-X-N-fd9e1375fa0a41df91cda08d30508c10)|
 |가장 큰 수|[Java](./lv2/42746.java)|[Notion](https://traveling-organ-e7f.notion.site/84beee3abf974142aaa2bc99479f722f)|
 |소수 찾기|[Java](./lv2/42839.java)|[Notion](https://traveling-organ-e7f.notion.site/89f26ba3c2694dc9ac657b69875acf45)|
+|쿼드압축 후 개수 세기|[Java](./lv2/68936.java)|[Notion](https://traveling-organ-e7f.notion.site/8da52a03129849baab0222eff6a5c727)|
+|124 나라의 숫자|[Java](./lv2/12899.java)|[Notion](https://traveling-organ-e7f.notion.site/124-ffce6ddbd34b4f15bc923f73bab38176)|
+|큰 수 만들기|[Java](./lv2/42883.java)|[Notion](https://traveling-organ-e7f.notion.site/bffd7361f2044d5ea5e22211519420b8)|
 ---
