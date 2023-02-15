@@ -59,6 +59,8 @@
 |124 나라의 숫자|[Java](./lv2/12899.java)|[Notion](https://traveling-organ-e7f.notion.site/124-ffce6ddbd34b4f15bc923f73bab38176)|
 |큰 수 만들기|[Java](./lv2/42883.java)|[Notion](https://traveling-organ-e7f.notion.site/bffd7361f2044d5ea5e22211519420b8)|
 |삼각 달팽이|[Java](./lv2/68645.java)|[Notion](https://traveling-organ-e7f.notion.site/ccf66940388e4bc79b1df32d29fde7c7)|
+|전력망을 둘로 나누기|[Java](./lv2/86971.java)|[Notion](https://traveling-organ-e7f.notion.site/0f5f3fe3ee144f69918a3fd2cbcb0ee2)|
+|메뉴 리뉴얼|[Java](./lv2/72411.java)|[Notion](https://traveling-organ-e7f.notion.site/a7a2fbfafab3463b997a7655feffa105)|
 ---
 <br><br>
 
