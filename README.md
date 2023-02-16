@@ -61,6 +61,8 @@
 |삼각 달팽이|[Java](./lv2/68645.java)|[Notion](https://traveling-organ-e7f.notion.site/ccf66940388e4bc79b1df32d29fde7c7)|
 |전력망을 둘로 나누기|[Java](./lv2/86971.java)|[Notion](https://traveling-organ-e7f.notion.site/0f5f3fe3ee144f69918a3fd2cbcb0ee2)|
 |메뉴 리뉴얼|[Java](./lv2/72411.java)|[Notion](https://traveling-organ-e7f.notion.site/a7a2fbfafab3463b997a7655feffa105)|
+|괄호 변환|[Java](./lv2/60058.java)|[Notion](https://traveling-organ-e7f.notion.site/20fc4223ebff49b19acfc75602de2af1)|
+|방금 그 곡|[Java](./lv2/17683.java)|[Notion](https://traveling-organ-e7f.notion.site/c2a714a3a207434dbf5aac633cf3698a)|
 ---
 <br><br>
 
