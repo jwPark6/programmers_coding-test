@@ -63,6 +63,8 @@
 |메뉴 리뉴얼|[Java](./lv2/72411.java)|[Notion](https://traveling-organ-e7f.notion.site/a7a2fbfafab3463b997a7655feffa105)|
 |괄호 변환|[Java](./lv2/60058.java)|[Notion](https://traveling-organ-e7f.notion.site/20fc4223ebff49b19acfc75602de2af1)|
 |방금 그 곡|[Java](./lv2/17683.java)|[Notion](https://traveling-organ-e7f.notion.site/c2a714a3a207434dbf5aac633cf3698a)|
+|롤케이크 자르기|[Java](./lv2/132265.java)|[Notion](https://traveling-organ-e7f.notion.site/c4efa69009994e0d80a27e993e1deeea)|
+|두 큐 합 같게 만들기|[Java](./lv2/118667.java)|[Notion](https://traveling-organ-e7f.notion.site/c7abee4437a849d3a347ba0f9adc2a10)|
 ---
 <br><br>
 
