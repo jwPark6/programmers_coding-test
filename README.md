@@ -75,3 +75,4 @@
 |베스트앨범|[Java](./lv3/42579.java)|[Notion](https://traveling-organ-e7f.notion.site/ca5da1c77c8d414caf08db8628f56f00)|
 |섬 연결하기|[Java](./lv3/42861.java)|[Notion](https://traveling-organ-e7f.notion.site/4c70f339f00b46279c2df2d937d2099d)|
 |단속카메라|[Java](./lv3/42884.java)|[Notion](https://traveling-organ-e7f.notion.site/9fd002f99a0846ad93353fd0d6acebdc)|
+|디스크 컨트롤러|[Java](./lv3/42627.java)|[Notion](https://traveling-organ-e7f.notion.site/5f8a872dd411436f846a5d153313e725)|
