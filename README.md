@@ -67,6 +67,7 @@
 |두 큐 합 같게 만들기|[Java](./lv2/118667.java)|[Notion](https://traveling-organ-e7f.notion.site/c7abee4437a849d3a347ba0f9adc2a10)|
 |뒤에 있는 큰 수 찾기|[Java](./lv2/154539.java)|[Notion](https://traveling-organ-e7f.notion.site/547e23c6cc6a45bf8f4e0d44a949935f)|
 |숫자 변환하기|[Java](./lv2/154538.java)|[Notion](https://traveling-organ-e7f.notion.site/9da243b98cc9487ba88cb685a501cd1c)|
+|덧칠하기|[Java](./lv2/161989.java)|[Notion](https://traveling-organ-e7f.notion.site/7c2f988a0e2844c2b33fa77736ab2da8)|
 ---
 <br><br>
 
