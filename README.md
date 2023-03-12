@@ -79,3 +79,5 @@
 |단속카메라|[Java](./lv3/42884.java)|[Notion](https://traveling-organ-e7f.notion.site/9fd002f99a0846ad93353fd0d6acebdc)|
 |디스크 컨트롤러|[Java](./lv3/42627.java)|[Notion](https://traveling-organ-e7f.notion.site/5f8a872dd411436f846a5d153313e725)|
 |이중우선순위 큐|[Java](./lv3/42628.java)|[Notion](https://traveling-organ-e7f.notion.site/e00b97ef0e1b4694903d3a184b75a5c1)|
+|정수 삼각형|[Java](./lv3/43105.java)|[Notion](https://traveling-organ-e7f.notion.site/627c7023591842e2968c8d236a76842c)|
+|등굣길|[Java](./lv3/42898.java)|[Notion](https://traveling-organ-e7f.notion.site/ead002afa49b459a93762e2808e2e10e)|
