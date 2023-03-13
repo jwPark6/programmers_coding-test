@@ -81,3 +81,5 @@
 |이중우선순위 큐|[Java](./lv3/42628.java)|[Notion](https://traveling-organ-e7f.notion.site/e00b97ef0e1b4694903d3a184b75a5c1)|
 |정수 삼각형|[Java](./lv3/43105.java)|[Notion](https://traveling-organ-e7f.notion.site/627c7023591842e2968c8d236a76842c)|
 |등굣길|[Java](./lv3/42898.java)|[Notion](https://traveling-organ-e7f.notion.site/ead002afa49b459a93762e2808e2e10e)|
+|네트워크|[Java](./lv3/43162.java)|[Notion](https://traveling-organ-e7f.notion.site/d54711dc44c340c9af8bc24f93773322)|
+|단어 변환|[Java](./lv3/42898.java)|[Notion](https://traveling-organ-e7f.notion.site/f80233d63bce4a068710fbb592284ec0)|
