@@ -83,3 +83,4 @@
 |등굣길|[Java](./lv3/42898.java)|[Notion](https://traveling-organ-e7f.notion.site/ead002afa49b459a93762e2808e2e10e)|
 |네트워크|[Java](./lv3/43162.java)|[Notion](https://traveling-organ-e7f.notion.site/d54711dc44c340c9af8bc24f93773322)|
 |단어 변환|[Java](./lv3/42898.java)|[Notion](https://traveling-organ-e7f.notion.site/f80233d63bce4a068710fbb592284ec0)|
+|여행 경로|[Java](./lv3/43164.java)|[Notion](https://traveling-organ-e7f.notion.site/8af0cfc70ac94656a79e41aa317addf3)|
