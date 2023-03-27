@@ -84,3 +84,4 @@
 |네트워크|[Java](./lv3/43162.java)|[Notion](https://traveling-organ-e7f.notion.site/d54711dc44c340c9af8bc24f93773322)|
 |단어 변환|[Java](./lv3/42898.java)|[Notion](https://traveling-organ-e7f.notion.site/f80233d63bce4a068710fbb592284ec0)|
 |여행 경로|[Java](./lv3/43164.java)|[Notion](https://traveling-organ-e7f.notion.site/8af0cfc70ac94656a79e41aa317addf3)|
+|N으로 표현|[Java](./lv3/42895.java)|[Notion](https://traveling-organ-e7f.notion.site/N-c3399a2da5794f5eb9d77f209864888a)|
